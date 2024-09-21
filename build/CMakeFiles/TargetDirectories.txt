@@ -1,0 +1,5 @@
+/home/woshiren/teach/build/CMakeFiles/a.dir
+/home/woshiren/teach/build/CMakeFiles/main.dir
+/home/woshiren/teach/build/CMakeFiles/test.dir
+/home/woshiren/teach/build/CMakeFiles/edit_cache.dir
+/home/woshiren/teach/build/CMakeFiles/rebuild_cache.dir
